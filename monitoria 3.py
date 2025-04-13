@@ -27,5 +27,6 @@ pygame.mixer.music.load('nous deux.mp3')
 pygame.mixer.music.play()
 pygame.event.wait()
 
-
+#exe5 feito pelo diretorio "projeto avancado"
+#exe 6 feito pelo diretorio "projeto avancado"
 
